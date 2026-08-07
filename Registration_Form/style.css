@@ -1,0 +1,25 @@
+body{
+    font-family:Arial;
+    margin:0;
+    background:#f4f4f4;
+}
+
+header{
+    background:#003366;
+    color:white;
+    text-align:center;
+    padding:20px;
+}
+
+section{
+    background:white;
+    width:80%;
+    margin:20px auto;
+    padding:20px;
+    border-radius:8px;
+}
+
+input,select{
+    width:100%;
+    padding:8px;
+}
