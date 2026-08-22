@@ -58,6 +58,7 @@ target.addEventListener("click", function() {
         return;
     }
 
+    
     score++;
 
     scoreDisplay.textContent = score;
